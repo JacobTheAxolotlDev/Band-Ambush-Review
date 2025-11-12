@@ -242,3 +242,4 @@ startBtn.addEventListener("click", startPractice);
   setActiveScreen(startScreen);
   initProgressBar();
 })();
+/* hi */
